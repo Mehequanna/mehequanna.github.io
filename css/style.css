@@ -25,6 +25,7 @@ footer {
 
 .selfie {
 	height: auto;
+	max-width: 250px;
 	width: 25%;
 	display: block;
 	margin: auto;
@@ -47,5 +48,19 @@ footer img {
 }
 
 .icon {
-	margin-left: 43%;
+	margin-left: 47%;
+}
+
+/* Media Queries (Screen Sizes) */
+
+@media (max-width: 480px) {
+	.icon {
+		margin-left: 39%;
+	}
+}
+
+@media (min-width: 481px) and (max-width: 721px) {
+	.icon {
+		margin-left: 41%;
+	}
 }
