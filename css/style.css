@@ -3,6 +3,10 @@ header {
 	border-bottom: 15px solid #0d0254;
 }
 
+footer {
+	background-color: #5854d6;
+}
+
 .header-content {
 	padding-top: 5%;
 }
