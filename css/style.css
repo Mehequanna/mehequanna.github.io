@@ -1,10 +1,22 @@
 header {
 	background-color: #281892;
-	border-bottom: 15px solid #0d0254;
+	border-bottom: 10px solid #0d0254;
 }
 
 footer {
+	border-top: 10px solid #0d0254;
+	border-bottom: 10px solid #0d0254;
 	background-color: #5854d6;
+}
+
+.footer-text {
+	text-align: center;
+	color: white;
+	text-shadow: 3px 1px 2px rgba(0, 0, 0, 1);
+}
+
+.footer-content {
+	padding: 2% 0;
 }
 
 .header-content {
@@ -25,3 +37,15 @@ footer {
 	text-shadow: 3px 1px 2px rgba(0, 0, 0, 1);
 }
 
+footer img {
+	margin-bottom: 9px;
+	width: 32px;
+	height: 32px;
+	-webkit-box-shadow: -8px 13px 22px -6px rgba(0,0,0,1);
+	-moz-box-shadow: -8px 13px 22px -6px rgba(0,0,0,1);
+	box-shadow: -8px 13px 22px -6px rgba(0,0,0,1);
+}
+
+.icon {
+	margin-left: 43%;
+}
