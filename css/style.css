@@ -6,7 +6,7 @@ header {
 footer {
 	border-top: 10px solid #0d0254;
 	border-bottom: 10px solid #0d0254;
-	background-color: #5854d6;
+	background-color: #281892;
 }
 
 .header-content {
@@ -29,9 +29,9 @@ footer {
 	text-align: center;
 	color: white;
 	border-radius: 5% 0 5% 0;
-	border-top: 5px solid #5854d6;
+	border-top: 5px solid #281892;
 	border-right: 5px solid #0d0254;
-	border-bottom: 5px solid #5854d6;
+	border-bottom: 5px solid #281892;
 	border-left: 5px solid #0d0254;
 	background-image: url(../img/family.jpg);
 	background-size: cover;
