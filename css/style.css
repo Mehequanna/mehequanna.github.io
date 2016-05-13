@@ -50,12 +50,19 @@ footer {
 	width: 20%;
 }
 
+.project1 {
+	list-style-position: inside;
+}
+
 .project2 {
-	padding-bottom: 60px;
+	padding-bottom: 40px;
+}
+
+.project3 {
+	padding-bottom: 21px;
 }
 
 .project3 ul {
-	padding-bottom: 31px;
 	list-style: none;
 }
 
