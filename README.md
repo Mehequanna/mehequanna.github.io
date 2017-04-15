@@ -15,6 +15,6 @@ After cloning the repository, open the index.html into a web browser of your cho
 ## Author
 Stephen Emery
 
-##License
+## License
 This work can be used under the The MIT License.
 Copyright (c) 2016 Stephen Emery
